@@ -1,4 +1,4 @@
-# Heroes vs. Villains 
+# Heroes vs. Villains - Bots' Game
 ## (Autonomous & Intelligent Agents'/Bots' Game) - DC Comics & Marvel Comics
 
 ### Available Characters
