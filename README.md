@@ -36,6 +36,8 @@
 |:--:|:-------:|:---------:|:-------:|:------------:|:-------:|:-------:|:-----------:|
 | 1  | ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/specials/stan-lee.png](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/specials/stan-lee.png)       | **_Stan Lee_** | N/A     | N/A          | N/A     | N/A      | ```` The Marvel Comics' primary creative leader. He's also known, in this game, as the "Creator". This special character have powers similar to a God and can end the game, at anytime, causing the redemption or destruction of the world! ```` [See more](https://en.wikipedia.org/wiki/Stan_Lee) |
 
+###### Total of Special Characters: 1
+
 ***
 
 ### Tribute to _Stan Lee_ (1922 - 2018)
