@@ -40,7 +40,7 @@
 
 ### Tribute to _Stan Lee_ (1922 - 2018)
 
-* This _Bots' Game' is also, a _tribute in memory of the American comic book writer, editor, publisher, and producer, as also, Marvel Comics' primary creative leader for two decades, Stan Lee_!
+* This _Bots' Game' is also, a _tribute in memory of the American comic book writer, editor, publisher, and producer, as also, Marvel Comics' primary creative leader for two decades, **Stan Lee**_!
 
 ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/imgs/tributes/stan-lee.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/imgs/tributes/stan-lee.jpg)
 
