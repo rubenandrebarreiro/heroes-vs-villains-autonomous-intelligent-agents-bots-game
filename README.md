@@ -7,11 +7,14 @@
 
 ***
 
+* The available **_Heroes_** characters available in this game, are the following:
 
 
 #### Anti-Heroes
 
 ***
+
+* The available **_Anti-Heroes_** characters available in this game, are the following:
 
 | #  | Sprite  | Name      | Stamina [0-100] | Wisdom [0-100] | Strength [0-100]  | Velocity [0-100]   | Description |
 |:--:|:-------:|:---------:|:-------:|:------------:|:-------:|:-------:|:-----------:|
@@ -21,10 +24,13 @@
 
 ***
 
+* The available **_Villains_** characters available in this game, are the following:
 
 #### Specials
 
 ***
+
+* The available **_Special_** characters available in this game, are the following:
 
 | #  | Sprite  | Name      | Stamina [0-100] | Wisdom [0-100] | Strength [0-100]   | Velocity [0-100]   | Description |
 |:--:|:-------:|:---------:|:-------:|:------------:|:-------:|:-------:|:-----------:|
