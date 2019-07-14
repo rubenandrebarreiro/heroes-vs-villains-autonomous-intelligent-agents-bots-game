@@ -98,4 +98,4 @@
 
 > I hope you enjoy it, as always!!! Sincerely, with love (or not),
 
-> **_Rúben André Barreiro_**, also known as, **_The God of Destruction_**!!!
+> **_Rúben André Barreiro_**, also known as, "**_The God of Destruction_**"!!! 👹 😈 🔥
