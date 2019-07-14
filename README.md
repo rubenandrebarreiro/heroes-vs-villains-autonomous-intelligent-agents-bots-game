@@ -90,8 +90,8 @@
 
 ***
 
-* Now, you know how everything works, let's start?!
+* _Now, you know how everything works, let's start?!_
 
 ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/imgs/GIFs/animation-2.gif](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/imgs/GIFs/animation-2.gif)
 
-* In which side are you on? On the side of good or evil? Are you in favor of the redemption of the world or its destruction?!
+* _In which side are you on?! On the side of good or evil?! Are you in favor of the redemption of the world or its destruction?!_
