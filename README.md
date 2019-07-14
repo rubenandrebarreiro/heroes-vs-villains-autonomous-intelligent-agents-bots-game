@@ -66,7 +66,7 @@
 
 ***
 
-## Credits
+## Tributes
 
 ### Tribute to _Stan Lee_ (1922 - 2018)
 
@@ -77,3 +77,8 @@
 > "It’s just, it’s fun to stay in the game."
 
 – **_Stan Lee_** (1922 - 2018)
+
+***
+
+## Credits and Special Thanks
+
