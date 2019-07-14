@@ -10,7 +10,7 @@
 [![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/)
 [![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/)
 
-[![status of this version no. 1](https://img.shields.io/badge/status-&nbsp;completed-orange.svg)](https://github.com/rubenandrebarreiro/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/)
+[![status of this version no. 1](https://img.shields.io/badge/status-not&nbsp;completed-orange.svg)](https://github.com/rubenandrebarreiro/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/)
 [![status of this version no. 2](https://img.shields.io/badge/status-not&nbsp;final-orange.svg)](https://github.com/rubenandrebarreiro/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/)
 [![status of this version no. 3](https://img.shields.io/badge/status-not&nbsp;stable-orange.svg)](https://github.com/rubenandrebarreiro/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/)
 [![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/)
