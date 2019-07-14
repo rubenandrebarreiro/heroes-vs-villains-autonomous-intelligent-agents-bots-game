@@ -20,7 +20,7 @@
 [![keyword of this version no. 3](https://img.shields.io/badge/keyword-heroes-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/)
 [![keyword of this version no. 4](https://img.shields.io/badge/keyword-villains-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/)
 
-[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game&style=flat)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/stargazers)
+[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game&style=flat)](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/stargazers)
 [![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game&style=flat)](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/fork)
 [![downloads of this repository](https://img.shields.io/github/downloads/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/total.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/archive/master.zip)
 [![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/archive/master.zip)
