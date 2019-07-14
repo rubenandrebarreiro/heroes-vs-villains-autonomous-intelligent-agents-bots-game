@@ -45,7 +45,7 @@
 * **_Villain_** (_54 in total_) like, per example:
 > _Darkseid_, _Lex Luthor_, _Joker_, _Bane_, _Thanos_, _Green Goblin_, among many others!
 
-* **_Special_** (_1 in total_) like, per example:
+* **_Special_** (_2 in total_) like, per example:
 > _Stan Lee_, to pay a tribute to the Marvel Comics' primary creative leader!
 
 * [Click here to see all the available _Characters_](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/characters)
@@ -59,7 +59,7 @@
 > _Kriptonite_, _Sea Trident_, _True Whip_, _Mjölnir_, _American Vibranium Shield_, _Potions_, among many others!
 
 * **_Special_** (_2 in total_) like, per example:
-> _The Infinity Gauntlet_ and _Mother Box_!
+> _Mother Box_ and _The Infinity Gauntlet_!
 
 * [Click here to see all the available _Items_](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/items)
 
