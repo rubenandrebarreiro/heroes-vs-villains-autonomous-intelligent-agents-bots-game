@@ -33,7 +33,7 @@
 
 ### Specifications
 
-#### Characters
+#### Available Characters
 
 ##### It's available a total of _120 Characters_ in this _Autonomous & Intelligent Agents'/Bots' Game_, divided in _4 categories_, including:
 * **_Heroe_** (_54 in total_) like, per example:
