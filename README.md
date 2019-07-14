@@ -37,7 +37,7 @@
 
 ##### It's available a total of _120 Characters_ in this _Autonomous & Intelligent Agents'/Bots' Game_, divided in _4 categories_, including:
 * **_Heroe_** (_54 in total_) like, per example:
-> _Superman_, _Batman_, _Wonder Woman_, _Ironman_, _Captain America_, _Thor_, among many others!
+> _Superman_, _Batman_, _Wonder Woman_, _Iron Man_, _Captain America_, _Thor_, among many others!
 
 * **_Anti-Heroe_** (_54 in total_) like, per example:
 > _Wolverine_, _Catwoman_, _Loki_, _Deadpool_, _Magneto_, _Dark Phoenix_, among many others!
