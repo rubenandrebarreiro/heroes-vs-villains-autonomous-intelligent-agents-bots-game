@@ -1,8 +1,8 @@
-# Heroes vs. Villains - Bots' Game
+# Heroes vs. Villains
 ## Autonomous & Intelligent Agents'/Bots' Game (DC Comics & Marvel Comics)
 
 ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/imgs/GIFs/banner-1.gif](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/imgs/GIFs/banner-1.gif)
-######  Heroes vs. Villains - Bots' Game - Autonomous & Intelligent Agents'/Bots' Game (DC Comics & Marvel Comics) - Banner #1
+######  Heroes vs. Villains - Autonomous & Intelligent Agents'/Bots' Game (DC Comics & Marvel Comics) - Banner #1
 
 ***
 
