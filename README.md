@@ -48,7 +48,7 @@
 * **_Special_** (_1 in total_) like, per example:
 > _Stan Lee_, to pay a tribute to the Marvel Comics' primary creative leader!
 
-* [Click here to see all the available Characters](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/characters)
+* [Click here to see all the available _Characters_](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/characters)
 
 ***
 
@@ -61,7 +61,7 @@
 * **_Special_** (_2 in total_) like, per example:
 > _The Infinity Gauntlet_ and _Mother Box_!
 
-* [Click here to see all the available Items](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/items)
+* [Click here to see all the available _Items_](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/items)
 
 
 ***
