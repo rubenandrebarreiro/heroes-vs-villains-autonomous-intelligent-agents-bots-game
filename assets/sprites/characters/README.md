@@ -26,7 +26,7 @@
 ***
 
 * **_Special_** (_2 in total_) like, per example:
-> _Ruben, The God of Destruction_ (in other words, myself) and _Stan Lee_, to pay a tribute to the Marvel Comics' primary creative leader!
+> _Rúben, The God of Destruction_ (in other words, myself) and _Stan Lee_, to pay a tribute to the Marvel Comics' primary creative leader!
 
 <a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/specials/ruben-the-god-of-destruction.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/specials/ruben-the-god-of-destruction.png" alt="ruben-the-god-of-destruction.png" width="50" height="50" /></a>
 <a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/specials/stan-lee.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/specials/stan-lee.png" alt="stan-lee.png" width="50" height="50" /></a>
