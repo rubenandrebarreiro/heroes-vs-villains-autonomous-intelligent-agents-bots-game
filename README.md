@@ -1,6 +1,35 @@
 # Heroes vs. Villains - Bots' Game
 ## Autonomous & Intelligent Agents'/Bots' Game (DC Comics & Marvel Comics)
 
+![https://raw.githubusercontent.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/master/imgs/JPGs/banner-1.jpg)
+######  Coding and Compiling "Hello World" in Many Ways - Banner #1
+
+***
+
+## Current Status
+[![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/)
+[![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+
+[![status of this version no. 1](https://img.shields.io/badge/status-completed-orange.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+[![status of this version no. 2](https://img.shields.io/badge/status-final-orange.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+[![status of this version no. 3](https://img.shields.io/badge/status-stable-orange.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+[![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+
+[![keyword of this version no. 1](https://img.shields.io/badge/keyword-compilers-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+[![keyword of this version no. 2](https://img.shields.io/badge/keyword-intrepretes-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-sintaxis-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-coding-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+
+[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=heroes-vs-villains-bots-game&style=flat)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/stargazers)
+[![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=heroes-vs-villains-bots-game&style=flat)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/fork)
+[![downloads of this repository](https://img.shields.io/github/downloads/rubenandrebarreiro/heroes-vs-villains-bots-game/total.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/archive/master.zip)
+[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/archive/master.zip)
+
+##### Current Progress of the Project
+
+[![current progress of this project](http://progressed.io/bar/100?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+
+
 ### Available Characters
 
 #### Heroes
