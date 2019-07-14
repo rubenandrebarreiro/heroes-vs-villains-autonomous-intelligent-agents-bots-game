@@ -1,8 +1,8 @@
 # Heroes vs. Villains - Bots' Game
 ## Autonomous & Intelligent Agents'/Bots' Game (DC Comics & Marvel Comics)
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/master/imgs/JPGs/banner-1.jpg)
-######  Coding and Compiling "Hello World" in Many Ways - Banner #1
+![https://raw.githubusercontent.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/master/imgs/GIFs/banner-1.gif](https://raw.githubusercontent.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/master/imgs/GIFs/banner-1.gif)
+######  Heroes vs. Villains - Bots' Game - Autonomous & Intelligent Agents'/Bots' Game (DC Comics & Marvel Comics) - Banner #1
 
 ***
 
