@@ -1,8 +1,8 @@
 # Heroes vs. Villains
-## Autonomous & Intelligent Agents'/Bots' Game (DC Comics & Marvel Comics)
+## Autonomous and Intelligent Agents'/Bots' Game (DC Comics & Marvel Comics)
 
 ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/imgs/GIFs/banner-1.gif](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/imgs/GIFs/banner-1.gif)
-######  Heroes vs. Villains - Autonomous & Intelligent Agents'/Bots' Game (DC Comics & Marvel Comics) - Banner #1
+######  Heroes vs. Villains - Autonomous and Intelligent Agents'/Bots' Game (DC Comics & Marvel Comics) - Banner #1
 
 ***
 
@@ -35,7 +35,7 @@
 
 #### Available Characters
 
-##### It's available a total of _120 Characters_ in this _Autonomous & Intelligent Agents'/Bots' Game_, divided in _4 categories_, including:
+##### It's available a total of _120 Characters_ in this _Autonomous and Intelligent Agents'/Bots' Game_, divided in _4 categories_, including:
 * **_Heroe_** (_54 in total_) like, per example:
 > _Superman_, _Batman_, _Wonder Woman_, _Iron Man_, _Captain America_, _Thor_, among many others!
 
@@ -54,7 +54,7 @@
 
 ### Available Items
 
-##### It's available a total of _14 Items_ in this _Autonomous & Intelligent Agents'/Bots' Game_, divided in _2 categories_, including:
+##### It's available a total of _14 Items_ in this _Autonomous and Intelligent Agents'/Bots' Game_, divided in _2 categories_, including:
 * **_Normal_** (_12 in total_) like, per example:
 > _Kriptonite_, _Sea Trident_, _True Whip_, _Mjölnir_, _American Vibranium Shield_, _Potions_, among many others!
 
