@@ -1,9 +1,7 @@
 # Heroes vs. Villains
 ## Autonomous & Intelligent Agents'/Bots' Game (DC Comics & Marvel Comics)
 
-#### Available Special Characters
-
-***
+### Available Special Characters
 
 * The **_Special Characters_** available in this game, are the following:
 
