@@ -78,7 +78,7 @@
 |:--:|:-------:|:---------:|:-------:|:------------:|:-------:|:-------:|:-----------:|
 | 1  | ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/items/the-infinity-gauntlet.png](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/items/the-infinity-gauntlet.png)       | **_The Infinity Gauntlet_** | N/A     | N/A          | N/A     | N/A      | ```` Cosmic artifact that grants the wearer complete mastery over the six Infinity Gems in it: Time, Space, Power, Soul, Mind, and Reality. The Gauntlet will also grant Omnipotence, Omniscience, and Omnipresence, along with all the various powers of the Gems themselves, to the bearer. It grants the wearer complete mastery over the Infinity Gems. The Infinity Gauntlet it's the strongest weapon of this game and grant the wearer, the capablity of end the game, at any moment! ```` [See more](https://en.wikipedia.org/wiki/The_Infinity_Gauntlet) |
 
-###### Total of Items: 1
+###### Total of Items: 10
 
 
 ***
