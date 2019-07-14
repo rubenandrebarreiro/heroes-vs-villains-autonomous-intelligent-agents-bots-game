@@ -5,7 +5,14 @@
 
 ##### It's available a total of _120 Characters_ in this _Autonomous & Intelligent Agents'/Bots' Game_, divided in _4 categories_, including:
 * **_Heroe_** (_54 in total_) like, per example:
-> _Superman_, _Batman_, _Wonder Woman_, _Ironman_, _Captain America_, _Thor_, among many others!
+> _Superman_, _Batman_, _Wonder Woman_, _Iron Man_, _Captain America_, _Thor_, among many others!
+
+<a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/superman.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/superman.png" alt="superman.png" width="50" height="50" /></a>
+<a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/batman.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/batman.png" alt="batman.png" width="50" height="50" /></a>
+<a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/wonder-woman.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/wonder-woman.png" alt="wonder-woman.png" width="50" height="50" /></a>
+<a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/iron-man.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/iron-man.png" alt="iron-man.png" width="50" height="50" /></a>
+<a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/captain-america.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/captain-america.png" alt="captain-america.png" width="50" height="50" /></a>
+<a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/thor.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/thor.png" alt="thor.png" width="50" height="50" /></a>
 
 * [Click here to see all the available _Heroe Characters_](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/characters/heroes)
 
