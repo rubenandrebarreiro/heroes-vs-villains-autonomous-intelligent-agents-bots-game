@@ -69,6 +69,8 @@
 
 ***
 
+## Credits
+
 ### Tribute to _Stan Lee_ (1922 - 2018)
 
 * This _Bots' Game_ is also, a _tribute in memory of the American comic book writer, editor, publisher, and producer, as also, Marvel Comics' primary creative leader for two decades, **Stan Lee**_!
