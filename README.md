@@ -48,7 +48,7 @@
 * **_Special_** (_1 in total_) like, per example:
 > _Stan Lee, to pay a tribute to the Marvel Comics' primary creative leader!
 
-* [Click here to see all the available Items](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/tree/master/assets/sprites/characters)
+* [Click here to see all the available Characters](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/tree/master/assets/sprites/characters)
 
 ***
 
