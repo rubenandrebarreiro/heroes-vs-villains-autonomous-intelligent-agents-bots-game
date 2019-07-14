@@ -84,11 +84,14 @@
 
 > To finish, I need to give some _credits and special thanks_ to:
 
-* [mudkat101 from DevianArt](https://www.deviantart.com/mudkat101) for the _Sprites_ and _arts_ available in the game;
+* [mudkat101 from DevianArt](https://www.deviantart.com/mudkat101) for the _Sprites_ and _Arts_ available in this game;
 
 ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/imgs/GIFs/animation-1.gif](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/imgs/GIFs/animation-1.gif)
 
 ***
 
-* Now, you know how everything works, let's start?!
+* _Now, you know how everything works, let's start?!_
+
 ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/imgs/GIFs/animation-2.gif](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/imgs/GIFs/animation-2.gif)
+
+* _In which side are you on?! On the side of good or evil?! Are you in favor of the redemption of the world or its destruction?!_
