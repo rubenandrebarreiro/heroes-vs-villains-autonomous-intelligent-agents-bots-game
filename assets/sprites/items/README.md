@@ -10,7 +10,10 @@
 ***
 
 * **_Special_** (_2 in total_) like, per example:
-> _The Infinity Gauntlet_ and _Mother Box_!
+> _Mother Box_ and _The Infinity Gauntlet_!
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/items/specials/mother-box.png](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/items/specials/mother-box.png)
+![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/items/specials/the-infinity-gauntlet.png](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/items/specials/the-infinity-gauntlet.png)
 
 * [Click here to see all the available _Special Items_](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/items/specials)
 
