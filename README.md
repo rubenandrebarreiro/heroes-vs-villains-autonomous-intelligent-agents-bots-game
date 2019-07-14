@@ -48,7 +48,7 @@
 
 | #  | Sprite  | Name      | Stamina [0-100] | Wisdom [0-100] | Strength [0-100]  | Velocity [0-100]   | Description |
 |:--:|:-------:|:---------:|:-------:|:------------:|:-------:|:-------:|:-----------:|
-| 1  | ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/anti-heroes/catwoman.png](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/anti-heroes/catwoman.png)       | **_Catwoman_** | **Lvl.:** ````40```` [![stamina](http://progressed.io/bar/40)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)       | **Lvl.:** ````70```` [![wisdom](http://progressed.io/bar/70)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)          | **Lvl.:** ````30```` [![strength](http://progressed.io/bar/30)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)     | **Lvl.:** ````40```` [![velocity](http://progressed.io/bar/40)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)      | ```` Gotham City burglar who typically wears a tight, one-piece outfit and uses a bullwhip for a weapon. She was originally characterized as a supervillain, but she has been featured in a series since the 1990s which portrays her as an antiheroine, often doing the wrong things for the right reasons! ```` [See more](https://en.wikipedia.org/wiki/Catwoman) |
+| 1  | ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/characters/anti-heroes/catwoman.png](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/characters/anti-heroes/catwoman.png)       | **_Catwoman_** | **Lvl.:** ````40```` [![stamina](http://progressed.io/bar/40)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)       | **Lvl.:** ````70```` [![wisdom](http://progressed.io/bar/70)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)          | **Lvl.:** ````30```` [![strength](http://progressed.io/bar/30)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)     | **Lvl.:** ````40```` [![velocity](http://progressed.io/bar/40)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)      | ```` Gotham City burglar who typically wears a tight, one-piece outfit and uses a bullwhip for a weapon. She was originally characterized as a supervillain, but she has been featured in a series since the 1990s which portrays her as an antiheroine, often doing the wrong things for the right reasons! ```` [See more](https://en.wikipedia.org/wiki/Catwoman) |
 
 #### Villains
 
@@ -64,9 +64,22 @@
 
 | #  | Sprite  | Name      | Stamina [0-100] | Wisdom [0-100] | Strength [0-100]   | Velocity [0-100]   | Description |
 |:--:|:-------:|:---------:|:-------:|:------------:|:-------:|:-------:|:-----------:|
-| 1  | ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/specials/stan-lee.png](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/specials/stan-lee.png)       | **_Stan Lee_** | N/A     | N/A          | N/A     | N/A      | ```` The Marvel Comics' primary creative leader. He's also known, in this game, as the "Creator". This special character have powers similar to a God and can end the game, at anytime, causing the redemption or destruction of the world! ```` [See more](https://en.wikipedia.org/wiki/Stan_Lee) |
+| 1  | ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/characters/specials/stan-lee.png](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/characters/specials/stan-lee.png)       | **_Stan Lee_** | N/A     | N/A          | N/A     | N/A      | ```` The Marvel Comics' primary creative leader. He's also known, in this game, as the "Creator". This special character have powers similar to a God and can end the game, at anytime, causing the redemption or destruction of the world! ```` [See more](https://en.wikipedia.org/wiki/Stan_Lee) |
 
 ###### Total of Special Characters: 1
+
+***
+
+### Available Items
+
+* The available **_Items_** characters available in this game, are the following:
+
+| #  | Sprite  | Name      | Increase Stamina [0-100] | Increase Wisdom [0-100] | Increase Strength [0-100]   | Increase Velocity [0-100]   | Description |
+|:--:|:-------:|:---------:|:-------:|:------------:|:-------:|:-------:|:-----------:|
+| 1  | ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/items/infinity-gauntlet.png](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/items/infinity-gauntlet.png)       | **_https://en.wikipedia.org/wiki/The_Infinity_Gauntlet_** | N/A     | N/A          | N/A     | N/A      | ```` The Infinity Gauntlet is a cosmic artifact that grants the wearer complete mastery over the six Infinity Gems in it: Time, Space, Power, Soul, Mind, and Reality. The Gauntlet will also grant Omnipotence, Omniscience, and Omnipresence, along with all the various powers of the Gems themselves, to the bearer. The Infinity Gauntlet is a cosmic artifact that grants the wearer complete mastery over the Infinity Gems. The Infinity Gauntlet it's the strongest weapon of this game and grant to his user, the capablity of end the game, at any moment! ```` [See more](https://en.wikipedia.org/wiki/The_Infinity_Gauntlet) |
+
+###### Total of Items: 1
+
 
 ***
 
