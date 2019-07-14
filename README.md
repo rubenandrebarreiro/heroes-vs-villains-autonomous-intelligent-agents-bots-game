@@ -84,7 +84,7 @@
 
 > To finish, I need to give some _credits and special thanks_ to:
 
-* [mudkat101 from DevianArt](https://www.deviantart.com/mudkat101) for the _Sprites_ and _Arts_ available in the game;
+* [mudkat101 from DevianArt](https://www.deviantart.com/mudkat101) for the _Sprites_ and _Arts_ available in this game;
 
 ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/imgs/GIFs/animation-1.gif](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/imgs/GIFs/animation-1.gif)
 
