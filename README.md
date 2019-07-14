@@ -46,7 +46,7 @@
 > _Darkseid_, _Lex Luthor_, _Joker_, _Bane_, _Thanos_, _Green Goblin_, among many others!
 
 * **_Special_** (_2 in total_) like, per example:
-> _Stan Lee_, to pay a tribute to the Marvel Comics' primary creative leader!
+> _Rúben, The God of Destruction_ (in other words, myself) and _Stan Lee_, to pay a tribute to the Marvel Comics' primary creative leader!
 
 * [Click here to see all the available _Characters_](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/characters)
 
