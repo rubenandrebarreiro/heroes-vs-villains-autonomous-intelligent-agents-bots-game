@@ -70,6 +70,19 @@
 
 ***
 
+### Available Items
+
+* The available **_Items_** characters available in this game, are the following:
+
+| #  | Sprite  | Name      | Increase Stamina [0-100] | Increase Wisdom [0-100] | Increase Strength [0-100]   | Increase Velocity [0-100]   | Description |
+|:--:|:-------:|:---------:|:-------:|:------------:|:-------:|:-------:|:-----------:|
+| 1  | ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/items/infinity-gauntlet.png](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-bots-game/master/assets/sprites/items/infinity-gauntlet.png)       | **_https://en.wikipedia.org/wiki/The_Infinity_Gauntlet_** | N/A     | N/A          | N/A     | N/A      | ```` The Infinity Gauntlet is a cosmic artifact that grants the wearer complete mastery over the six Infinity Gems in it: Time, Space, Power, Soul, Mind, and Reality. The Gauntlet will also grant Omnipotence, Omniscience, and Omnipresence, along with all the various powers of the Gems themselves, to the bearer. The Infinity Gauntlet is a cosmic artifact that grants the wearer complete mastery over the Infinity Gems. The Infinity Gauntlet it's the strongest weapon of this game and grant to his user, the capablity of end the game, at any moment! ```` [See more](https://en.wikipedia.org/wiki/The_Infinity_Gauntlet) |
+
+###### Total of Items: 1
+
+
+***
+
 ## Credits
 
 ### Tribute to _Stan Lee_ (1922 - 2018)
