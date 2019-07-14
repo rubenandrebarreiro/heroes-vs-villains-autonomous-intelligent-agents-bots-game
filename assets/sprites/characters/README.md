@@ -31,3 +31,7 @@
 * [Click here to see all the available _Special Characters_](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/characters/specials)
 
 ***
+
+###### Total of _Characters_: 120
+
+***
