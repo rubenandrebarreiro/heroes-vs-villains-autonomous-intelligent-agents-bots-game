@@ -59,7 +59,7 @@
 > _Kriptonite_, _Sea Trident_, _True Whip_, _Mjölnir_, _American Vibranium Shield_, _Potions_, among many others!
 
 * **_Special_** (_2 in total_) like, per example:
-> _The Infinity Gauntlet_ and _Mother Box_, among many others!
+> _The Infinity Gauntlet_ and _Mother Box_!
 
 * [Click here to see all the available Items](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/tree/master/assets/sprites/items)
 
