@@ -3,7 +3,7 @@
 
 ### Available Special Items
 
-* The available **_Special Items_** available in this game, are the following:
+* The **_Special Items_** available in this game, are the following:
 
 | #  | Sprite  | Name      | Increase Stamina [0-100] | Increase Wisdom [0-100] | Increase Strength [0-100]   | Increase Velocity [0-100]   | Description |
 |:--:|:-------:|:---------:|:-------:|:------------:|:-------:|:-------:|:-----------:|
