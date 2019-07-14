@@ -38,6 +38,7 @@
 
 * The available **_Heroes_** characters available in this game, are the following:
 
+###### Total of Heroes' Characters: 54
 
 #### Anti-Heroes
 
