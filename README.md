@@ -78,5 +78,7 @@
 
 – **_Stan Lee_** (1922 - 2018)
 
+***
+
 ## Credits and Special Thanks
 
