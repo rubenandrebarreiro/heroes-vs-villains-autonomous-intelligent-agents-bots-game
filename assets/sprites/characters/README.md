@@ -19,7 +19,14 @@
 ***
 
 * **_Anti-Heroe_** (_54 in total_) like, per example:
-> _Wolverine_, _Catwoman_, _Loki_, _Deadpool_, _Magneto_, _Dark Phoenix_, among many others!
+> _Wolverine_, _Catwoman_, _Loki_, _Deadpool_, _Magneto_, _Dark Phoenix (Jean Grey)_, among many others!
+
+<a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/wolverine.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/wolverine.png" alt="wolverine.png" width="50" height="50" /></a>
+<a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/catwoman.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/catwoman.png" alt="catwoman.png" width="50" height="50" /></a>
+<a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/loki.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/loki.png" alt="loki.png" width="50" height="50" /></a>
+<a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/deadpool.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/deadpool.png" alt="deadpool.png" width="50" height="50" /></a>
+<a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/magneto.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/magneto.png" alt="magneto.png" width="50" height="50" /></a>
+<a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/dark-phoenix-jean-grey.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/dark-phoenix-jean-grey.png" alt="dark-phoenix-jean-grey.png" width="50" height="50" /></a>
 
 * [Click here to see all the available _Anti-Heroe Characters_](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/characters/anti-heroes)
 
