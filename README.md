@@ -95,3 +95,7 @@
 ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/imgs/GIFs/animation-2.gif](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/imgs/GIFs/animation-2.gif)
 
 * _In which side are you on?! On the side of **good** or **evil**?! Are you in favor of the **redemption** of the world or its **destruction**?!_
+
+> I hope you enjoy it, as always!!! Sincerely, with love (or not),
+
+> **_Rúben André Barreiro_**, also known as, **_The God of Destruction_**!!!
