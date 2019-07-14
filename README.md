@@ -15,10 +15,10 @@
 [![status of this version no. 3](https://img.shields.io/badge/status-stable-orange.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
 [![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
 
-[![keyword of this version no. 1](https://img.shields.io/badge/keyword-compilers-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
-[![keyword of this version no. 2](https://img.shields.io/badge/keyword-intrepretes-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
-[![keyword of this version no. 3](https://img.shields.io/badge/keyword-sintaxis-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
-[![keyword of this version no. 4](https://img.shields.io/badge/keyword-coding-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+[![keyword of this version no. 1](https://img.shields.io/badge/keyword-agents-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+[![keyword of this version no. 2](https://img.shields.io/badge/keyword-bots-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-heroes-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-villains-brown.svg)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/)
 
 [![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=heroes-vs-villains-bots-game&style=flat)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/stargazers)
 [![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=heroes-vs-villains-bots-game&style=flat)](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/fork)
