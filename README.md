@@ -40,7 +40,7 @@
 > _Superman_, _Batman_, _Wonder Woman_, _Iron Man_, _Captain America_, _Thor_, among many others!
 
 * **_Anti-Heroe_** (_54 in total_) like, per example:
-> _Wolverine_, _Catwoman_, _Loki_, _Deadpool_, _Magneto_, _Dark Phoenix_, among many others!
+> _Wolverine_, _Catwoman_, _Loki_, _Deadpool_, _Magneto_, _Dark Phoenix (Jean Grey)_, among many others!
 
 * **_Villain_** (_54 in total_) like, per example:
 > _Darkseid_, _Lex Luthor_, _Joker_, _Bane_, _Thanos_, _Green Goblin_, among many others!
