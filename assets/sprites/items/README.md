@@ -7,10 +7,14 @@
 
 * [Click here to see all the available _Normal Items_](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/items/normals)
 
+***
+
 * **_Special_** (_2 in total_) like, per example:
 > _The Infinity Gauntlet_ and _Mother Box_!
 
 * [Click here to see all the available _Special Items_](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/items/specials)
+
+***
 
 ###### Total of Items: 14
 
