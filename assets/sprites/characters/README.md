@@ -28,7 +28,7 @@
 * **_Special_** (_1 in total_) like, per example:
 > _Stan Lee_, to pay a tribute to the Marvel Comics' primary creative leader!
 
-![https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/characters/specials/stan-lee.png](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/characters/specials/stan-lee.png)
+![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/specials/stan-lee.png](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/specials/stan-lee.png)
 
 * [Click here to see all the available _Special Characters_](https://github.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/tree/master/assets/sprites/characters/specials)
 
