@@ -46,7 +46,7 @@
 > _Darkseid_, _Lex Luthor_, _Joker_, _Bane_, _Thanos_, _Green Goblin_, among many others!
 
 * **_Special_** (_1 in total_) like, per example:
-> _Stan Lee, to pay a tribute to the Marvel Comics' primary creative leader!
+> _Stan Lee_, to pay a tribute to the Marvel Comics' primary creative leader!
 
 * [Click here to see all the available Characters](https://github.com/rubenandrebarreiro/heroes-vs-villains-bots-game/tree/master/assets/sprites/characters)
 
