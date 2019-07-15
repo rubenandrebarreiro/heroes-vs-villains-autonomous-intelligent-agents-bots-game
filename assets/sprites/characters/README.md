@@ -3,8 +3,8 @@
 
 ### Available Characters
 
-##### It's available a total of _120 Characters_ in this _Autonomous & Intelligent Agents'/Bots' Game_, divided in _4 categories_, including:
-* **_Heroe_** (_54 in total_) like, per example:
+##### It's available a total of _142 Characters_ in this _Autonomous & Intelligent Agents'/Bots' Game_, divided in _4 categories_, including:
+* **_Heroe_** (_60 in total_) like, per example:
 > _Superman_, _Batman_, _Wonder Woman_, _Iron Man_, _Captain America_, _Thor_, among many others!
 
 <a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/superman.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/heroes/superman.png" alt="superman.png" width="50" height="50" /></a>
@@ -18,7 +18,7 @@
 
 ***
 
-* **_Anti-Heroe_** (_54 in total_) like, per example:
+* **_Anti-Heroe_** (_20 in total_) like, per example:
 > _Wolverine_, _Catwoman_, _Loki_, _Deadpool_, _Magneto_, _Dark Phoenix (Jean Grey)_, among many others!
 
 <a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/wolverine.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/wolverine.png" alt="wolverine.png" width="50" height="50" /></a>
@@ -32,7 +32,7 @@
 
 ***
 
-* **_Villain_** (_54 in total_) like, per example:
+* **_Villain_** (_60 in total_) like, per example:
 > _Darkseid_, _Lex Luthor_, _Joker_, _Bane_, _Thanos_, _Green Goblin_, among many others!
 
 <a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/villains/darkseid.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/villains/darkseid.png" alt="darkseid.png" width="50" height="50" /></a>
