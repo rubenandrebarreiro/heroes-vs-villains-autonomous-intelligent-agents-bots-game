@@ -3,7 +3,7 @@
 
 ### Available Characters
 
-##### It's available a total of _142 Characters_ in this _Autonomous & Intelligent Agents'/Bots' Game_, divided in _4 categories_, including:
+##### It's available a total of _144 Characters_ in this _Autonomous & Intelligent Agents'/Bots' Game_, divided in _4 categories_, including:
 * **_Heroe_** (_60 in total_) like, per example:
 > _Superman_, _Batman_, _Wonder Woman_, _Iron Man_, _Captain America_, _Thor_, among many others!
 
