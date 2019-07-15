@@ -18,7 +18,7 @@
 
 ***
 
-* **_Anti-Heroe_** (_20 in total_) like, per example:
+* **_Anti-Heroe_** (_22 in total_) like, per example:
 > _Wolverine_, _Catwoman_, _Loki_, _Deadpool_, _Magneto_, _Dark Phoenix (Jean Grey)_, among many others!
 
 <a href="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/PNGs/wolverine.png"><img src="https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/anti-heroes/PNGs/wolverine.png" alt="wolverine.png" width="50" height="50" /></a>
