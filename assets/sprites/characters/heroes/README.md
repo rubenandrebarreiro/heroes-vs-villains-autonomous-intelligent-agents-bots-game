@@ -9,6 +9,6 @@
 |:--:|:-------:|:---------:|:-------:|:------------:|:-------:|:-------:|:-----------:|
 | 1  | ![https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/specials/ruben-the-god-of-destruction.png](https://raw.githubusercontent.com/rubenandrebarreiro/heroes-vs-villains-autonomous-intelligent-agents-bots-game/master/assets/sprites/characters/specials/ruben-the-god-of-destruction.png)       | **_Rúben, The God of Destruction_** | N/A     | N/A          | N/A     | N/A      | ```` The creator of this specific game. He's also known, in this game, as the "Reincarnation of Evil". This special character have powers similar to a God and can end the game, at anytime, causing the destruction of the world! ```` [See more](https://rubenandrebarreiro.github.io/) |
 
-###### Total of _Heroe Characters_: 2
+###### Total of _Heroe Characters_: 60
 
 ***
